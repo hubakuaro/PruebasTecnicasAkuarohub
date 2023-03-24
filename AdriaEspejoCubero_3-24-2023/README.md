@@ -12,7 +12,7 @@ npm run start:dev:db
 
 enter into the instance and create the database that we will connect to our TypeOrm module with:
 
-psql -U postgres 1234
+psql -U postgres
 CREATE DATABASE users;
 
 execute easily with:
